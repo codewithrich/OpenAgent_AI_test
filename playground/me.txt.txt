@@ -1,0 +1,5 @@
+{{#user}
+Name: Richardson.D
+Skills: HTML, CSS, JS, Next.js , React.js, Node.js , Express , Mongoose
+Email: richardson12230@gmail.com
+{{/user}}
